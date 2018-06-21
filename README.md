@@ -23,6 +23,6 @@ I put this code in the __init__ function of the class calculator and gave it nic
 P.S:- When you see my code, you'll find that I've commented out some part of my code, that's because I was trying to add one more button in the calculator 'delete' which would delete just the first digit from the right but when I'm trying it, it is throwing out some errors.
 So I will update it as soon as I find the solution.
 
-Feedbacks are welcomed!
+Feedback is welcomed!
 
 Happy Coding :)
