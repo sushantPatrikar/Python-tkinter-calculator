@@ -1,4 +1,7 @@
 # Python-tkinter-calculator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![stars](https://img.shields.io/github/stars/sushantPatrikar/Python-tkinter-calculator.svg)
+![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
 This is my first python project. From the start I had an interest in GUIs, so as soon as I learnt the basics of tkinter I started working on this project.
 
