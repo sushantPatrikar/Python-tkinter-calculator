@@ -3,7 +3,7 @@
 ![stars](https://img.shields.io/github/stars/sushantPatrikar/Python-tkinter-calculator.svg)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
-This is my first python project. From the start I had an interest in GUIs, so as soon as I learnt the basics of tkinter I started working on this project.
+This is my first python project. From the start I had an interest in GUIs, so as soon as I learnt the basics of tkinter I started working on this project.This is a simple calculator which is very easy
 
 ### Making the layout of the calculator
 
