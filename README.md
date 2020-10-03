@@ -23,8 +23,8 @@ I put this code in the __init__ function of the class calculator and gave it nic
 
 ![screenshot 2](https://user-images.githubusercontent.com/40419750/41705277-29414842-7556-11e8-8220-4b063cdadf11.png)
 
-P.S:- When you see my code, you'll find that I've commented out some part of my code, that's because I was trying to add one more button in the calculator 'delete' which would delete just the first digit from the right but when I'm trying it, it is throwing out some errors
-So I will update it as soon as I find the solution
+P.S:- When you see my code, you'll find that I've commented out some part of my code, that's because I was trying to add one more button in the calculator 'delete' which would delete just the first digit from the right but when I'm trying it, it is throwing out some errors.
+So I will update it as soon as I find the solution.
 
 Feedback is welcomed!
 
